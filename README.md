@@ -1,11 +1,13 @@
-# Hi there, I'm Daavak J 👋
+# Hi I'm Daavak J 👋
 
-## 💻 About Me:
-- 🔭 I’m currently working on Frontend Projects
-- 🌱 I’m learning React and Node.js
-- 🧠 I’m interested in UI/UX, Animation, and JavaScript
-- 💬 Ask me about Web Development
-- 📫 How to reach me: [Email](mailto:daavakcs23@gmail.com)
+## 💻About Me:
+🔭 I’m currently working on Frontend and Full-Stack Projects
+🌱 I’m learning React, Node.js, and Machine Learning
+🧠 I’m interested in UI/UX, Animation, JavaScript, and AI-powered applications
+💬 Ask me about Web Development, Full-Stack Applications, or ML Projects
+📊 Passionate about creating data-driven and interactive experiences
+🤝 Always open to collaborating on innovative projects
+📫 How to reach me: [Email](daavakcs23@gmail.com),
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daavak-j-4440a7326/)
