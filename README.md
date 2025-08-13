@@ -1,4 +1,4 @@
-# Hi I'm Daavak J 👋
+# Hi there,I'm Daavak J 👋
 
 ## 💻About Me:
 - 🔭 I’m currently working on **Frontend** and **Full-Stack Projects**
@@ -13,7 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daavak-j-4440a7326/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
-## ⚙️ Technologies I Use:
+## ⚙️ Code In:
+![Python](download-removebg-preview)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
