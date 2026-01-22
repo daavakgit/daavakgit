@@ -22,5 +22,5 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ## 📈 GitHub Stats:
-![daavakgit's Stats](https://github-readme-stats.vercel.app/api?username=daavakgit&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![daavakgit's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daavakgit&show_icons=true&theme=algolia&hide_border=true&count_private=true)
 
